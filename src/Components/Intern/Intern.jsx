@@ -9,7 +9,7 @@ import ClipboardClose from '../../../public/clipboard-close.svg';
 const Intern = () => {
 
     return (
-        <div className='w-full h-[35vh] flex flex-col p-[0.8rem] rounded-[0.5rem] bg-white  '>
+        <div className='w-[97%] h-[35vh] flex flex-col p-[0.8rem] rounded-[0.5rem] bg-white  '>
 
             <div className="w-full h-[10vh] flex ">
                 <div className="w-[85%] h-full flex flex-col   ">

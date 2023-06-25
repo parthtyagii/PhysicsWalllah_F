@@ -8,7 +8,7 @@ import RightPart from '../RightPart/RightPart';
 const Main = () => {
     
     return (
-        <div className='w-full h-[150vh] p-[2rem] flex '>
+        <div className='w-full min-h-[100vh] p-[2rem] flex gap-x-[2rem] '>
             <LeftPart />
             <RightPart />
         </div>
