@@ -11,7 +11,7 @@ import Notification from '../../../public/notification.svg';
 const Navbar = () => {
 
     return (
-        <div className='w-full h-[10vh] flex bg-white '>
+        <div className='w-full h-[10vh] flex shadow-md bg-white '>
 
             <div className="w-[20%] h-full text-[1.5rem] font-[700] pl-[2rem] flex justify-start items-center  ">
                 InternBrand
